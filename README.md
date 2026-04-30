@@ -1,14 +1,14 @@
 # git-lab-practice
 
-<<<<<<<<<<<HEAD
+&#x09;	HEAD
 
-This is a Collaborative Project
+This is Student A's Project
 
 =======
 
 This is Student A's Project.
 
->>>>>>>>>>>>>>.
+
 
 \[hash]
 
